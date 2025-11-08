@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ehtijad Ali
 
-### 🚀 Junior Data Scientist | Full-Stack Developer | AI Enthusiast
+### 🚀 Junior Data Scientist | Frontend Developer | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&color=FF6B35&center=true&random=true&width=700&lines=Data+Science+%F0%9F%93%8A;Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%F0%9F%A7%A0;Deep+Learning+%F0%9F%94%A5;Web+Development+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;Computer+Vision+%F0%9F%91%81%EF%B8%8F;NLP+Expert+%F0%9F%92%AC;Canva+Designer+%F0%9F%8E%A8;SEO+Specialist+%F0%9F%93%88" alt="Typing SVG" />
 
@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Hey there! 👋 I'm **Ehtijad Ali**, a passionate **Junior Data Scientist** and **FrontEnd Web Developer** based in the beautiful valleys of Yasin, Pakistan. 
+Hey there! 👋 I'm **Ehtijad Ali**, a passionate **Junior Data Scientist** and **Frontend Web Developer** based in the beautiful valleys of Yasin, Pakistan. 
 
 I bridge the gap between **data-driven insights** and **interactive web experiences**. My journey in tech encompasses everything from building intelligent AI models to crafting responsive, user-friendly websites that bring ideas to life.
 
