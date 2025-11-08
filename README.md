@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Hey there! 👋 I'm **Ehtijad Ali Shah**, a passionate **Junior Data Scientist** and **Full-Stack Web Developer** based in the beautiful valleys of Skardu, Pakistan. 
+Hey there! 👋 I'm **Ehtijad Ali**, a passionate **Junior Data Scientist** and **FrontEnd Web Developer** based in the beautiful valleys of Yasin, Pakistan. 
 
 I bridge the gap between **data-driven insights** and **interactive web experiences**. My journey in tech encompasses everything from building intelligent AI models to crafting responsive, user-friendly websites that bring ideas to life.
 
